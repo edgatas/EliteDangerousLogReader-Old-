@@ -1,0 +1,45 @@
+Log file created. Log name: Log20161201091104.txt
+Program Started
+New traveled systems list was created
+Reading Objects from file for traveled systems
+The end of the file is reachd
+Reading of traveled systems objects completed
+Reading logs from: C:\edgatas\Programs\Steam\steamapps\common\Elite Dangerous\Products\elite-dangerous-64\logs
+Reading: netLog.161025200743.01.log
+Lenght: 1323
+Reading: netLog.161026091415.01.log
+Lenght: 1350
+Reading: netLog.161026171859.01.log
+Lenght: 1614
+Reading: netLog.161027182943.01.log
+Lenght: 1760
+Reading: netLog.161027233723.01.log
+Lenght: 1796
+Reading: netLog.161028081301.01.log
+Lenght: 1904
+Reading: netLog.161028140137.01.log
+Lenght: 1972
+Reading: netLog.161028183517.01.log
+Lenght: 1976
+Reading: netLog.161028203049.01.log
+Lenght: 1981
+Reading: netLog.161028205906.01.log
+Lenght: 2002
+Reading: netLog.161029095943.01.log
+Lenght: 2028
+Reading: netLog.161029192317.01.log
+Lenght: 2094
+Reading: netLog.161031111702.01.log
+Lenght: 2112
+Reading: netLog.161101202355.01.log
+Lenght: 2112
+Reading: netLog.161102144548.01.log
+Lenght: 2201
+Reading: netLog.161108225412.01.log
+Lenght: 2217
+Reading: netLog.161110194225.01.log
+Lenght: 2229
+Reading: netLog.161111205825.01.log
+Lenght: 2229
+Reading: netLog.161112121259.01.log
+Lenght: 2236

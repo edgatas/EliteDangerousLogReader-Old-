@@ -1,0 +1,6 @@
+Log file created. Log name: Log20161202132046.txt
+Program Started
+New traveled systems list was created
+Reading Objects from file for traveled systems
+The end of the file is reachd
+Reading of traveled systems objects completed
